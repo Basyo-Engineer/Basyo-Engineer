@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello, Low Layer!
 
+## Plofile
+奈良高専に生息する謎の低レイヤー趣味者．
+プロセッサとかコンパイラ，OSを自作したい．
+
+古いプロセッサを漁ったりする．(マイコン作りたい)
 <!--
 **Basyo-Engineer/Basyo-Engineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
